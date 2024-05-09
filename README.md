@@ -4,3 +4,5 @@ Complete helper for all things University. Add the requirements for your degree,
 As information on different universities grows, more features such as credit transfer compatability with other universities will be added.
 
 5/8/24
+
+More updates coming soon.
